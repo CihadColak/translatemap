@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+app-card {
+  display: flex;
+  padding: 0.5em;
+  width: 100%;
+}
